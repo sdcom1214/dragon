@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"e7776818434df420","x":-37,"y":420,"width":250,"height":60,"type":"text","text":""},
+		{"id":"101111af587101b3","type":"file","file":"2026 알고연 활동 계획 (Maybe).md","x":0,"y":0,"width":400,"height":400},
+		{"id":"8831ebfe3bb5b607","type":"text","text":"ai sw 축전\n\n주제를 주면? \n3팀이나가는데 \n팀장은 3학년\n수요일엔 무조건 해야됌.\n\n3주소요예상\n예산도 받아야해\n2~3주정도\n\n","x":-250,"y":-520,"width":450,"height":360},
+		{"id":"a024e0af0256fe66","x":-640,"y":0,"width":480,"height":380,"type":"text","text":"해커톤\n"}
+	],
+	"edges":[
+		{"id":"b85a5f0d12b8ae1c","fromNode":"101111af587101b3","fromSide":"left","toNode":"8831ebfe3bb5b607","toSide":"top"},
+		{"id":"504582122742fd45","fromNode":"101111af587101b3","fromSide":"left","toNode":"a024e0af0256fe66","toSide":"right"}
+	]
+}
