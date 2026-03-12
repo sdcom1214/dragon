@@ -10,6 +10,7 @@
           {
             "id": "75d51eb3a41ce4ac",
             "type": "tabs",
+            "dimension": 80.62015503875969,
             "children": [
               {
                 "id": "c8826ad3eeb17737",
@@ -17,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "algoyeon_2026/알고연 기획부에 의한, 기획부를 위한. 기초 설명.md",
+                    "file": "algoyeon_2026/Project Drg..md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "알고연 기획부에 의한, 기획부를 위한. 기초 설명"
+                  "title": "Project Drg."
                 }
               }
             ]
@@ -30,6 +31,7 @@
           {
             "id": "55754772a38a004e",
             "type": "tabs",
+            "dimension": 19.379844961240313,
             "children": [
               {
                 "id": "36e959482439740a",
@@ -37,12 +39,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "algoyeon_2026/2026 알고연.md",
+                    "file": "algoyeon_2026/Project Drg..md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2026 알고연"
+                  "title": "Project Drg."
                 }
               }
             ]
@@ -232,15 +234,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eec5bc0c7a7b35f6",
+  "active": "c8826ad3eeb17737",
   "lastOpenFiles": [
-    "algoyeon_2026/2026 알고연 1.md",
     "algoyeon_2026/알고연 기획부에 의한, 기획부를 위한. 기초 설명.md",
+    "algoyeon_2026/2026 알고연 1.md",
+    "algoyeon_2026/Project Drg..md",
+    "().md",
+    "2026 알고연 활동 계획 (Maybe).md",
     "무제 1.base",
-    "algoyeon_2026/2026 알고연.md",
     "무제 3.canvas",
     "무제.base",
-    "2026 알고연 활동 계획 (Maybe).md",
     "무제.canvas",
     "무제 1.canvas",
     "무제 2.canvas",
